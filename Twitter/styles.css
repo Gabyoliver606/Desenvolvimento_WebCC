@@ -1,0 +1,102 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+a.publicationEnavigation {
+    color: rgb(15,20,25);
+    line-height: 50px;
+    padding-left: 2%;
+}
+
+a.flex{
+    display: flex;
+}
+
+a.left {
+    padding-left: 1%;
+    line-height: 30px;
+}
+
+
+a.publicationEnavigation:hover {
+    background-color: rgba(15,25,20,0.1);
+    border-radius: 25px;
+}
+
+.estatistic {
+    color: rgb(15,20,25);
+    font: bold;
+    padding-left: 1%;
+}
+
+a.letras {
+    color: rgb(83, 100, 113);
+    font-family:sans-serif;
+}
+
+span.letras {
+    color: rgb(83, 100, 113);
+    font-family:sans-serif;
+}
+
+.actions {
+    padding-left: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+a.actions {
+    color: rgb(83, 100, 113);
+}
+
+.tzeet:hover {
+    background-color: rgba(249, 24, 128, 0.1);
+}
+
+a.joined {
+    color: rgb(83, 100, 113);
+}
+
+img.size {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+a.under:hover {
+    text-decoration: underline;
+}
+
+p,h2,h4 {
+    padding-left: 1%;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.size {
+    width: 200px;
+    height: 200px;
+}
+
+       
+a {
+    color: #090080;
+}
+       
+h1 {
+    color: #ff0000bf;
+}
+    
+body {
+    background-color: #b0f2e0;
+}
