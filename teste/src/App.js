@@ -8,6 +8,17 @@
 import Pai from "./atividade01/01Pai";
 import * as PC from "./atividade01/02MeuPC";
 import * as Batalha from "./atividade01/03Batalha";
+import FuncaoA from "./components/06Contexto/FuncaoA";
+
+/*function App() {
+  return (
+    <div className="App">
+        <FuncaoA/>
+    </div>
+  )
+}
+
+export default App;*/
 
 function App() {
   return (
@@ -24,6 +35,7 @@ function App() {
             <Batalha.Enemy nome = "CR7" vida = {100} />
         </Batalha.World>
         <hr/>
+        <FuncaoA/>
     </div>
   )
 }

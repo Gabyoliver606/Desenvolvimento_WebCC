@@ -27,8 +27,8 @@ const Enemy = ({name}) => {
 const Arena = () => {
     return (
         <div>
-            <Hero name = "Messi o maior"/>
-            <Enemy name = "CR7 pequenininho"/>
+            <Hero name = "Messi o maior que venceu CR7 no park dos princess"/>
+            <Enemy name = "CR7 pequenininho que perdeu o fight para Messi o maior"/>
         </div>
     )
 }
